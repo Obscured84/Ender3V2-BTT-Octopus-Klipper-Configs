@@ -1,1 +1,1 @@
-Klipper Config file for Ender 3 with the BTT Octopus board.  Also configured to use an EZ ABL probe, just comment that section out if not needed and change you Z endstop pin.
+Klipper Config file for Ender 3V2/Voxelab Aquila with the BTT Octopus v1.1 board.  Also configured to use an BLTouch probe.
