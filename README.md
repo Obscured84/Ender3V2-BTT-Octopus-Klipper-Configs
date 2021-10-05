@@ -4,6 +4,7 @@
 
 ### **Printer Setup:**
 
+- **Octoprint**
 - **Octopus V1.# Board**
 - **BLTouch**
 - **Dual Independent Z**
