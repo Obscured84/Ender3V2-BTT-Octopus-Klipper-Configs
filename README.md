@@ -1,6 +1,6 @@
 # **Klipper Config for the Ender 3 V2 and Clones**
 
-## **📋 GoTo BigTreeTech Official Octopus v1.# [GITHUB](https://github.com/bigtreetech/BIGTREETECH-OCTOPUS-V1.0) for the latest information !**
+## **📋 GoTo BTT Official Octopus v1.# [GITHUB](https://github.com/bigtreetech/BIGTREETECH-OCTOPUS-V1.0) for the latest information !**
 
 ### **Printer Setup:**
 
