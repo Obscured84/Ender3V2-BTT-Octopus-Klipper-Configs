@@ -7,7 +7,7 @@
 - **Octoprint**
 - **Octopus V1.# Board**
 - **BLTouch**
-- **Dual Independent Z**
+- **Dual Independent Z's**
 - **TMC2209 UART Drivers**
 
 Rename customprinter.cfg to printer.cfg
