@@ -6,7 +6,7 @@
 
 - **Octoprint**
 - **Octopus V1.# Board**
-- **BLTouch**
+- **BLTouch/CRTouch**
 - **Dual Independent Z's**
 - **TMC2209 UART Drivers**
 
